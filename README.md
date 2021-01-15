@@ -1,3 +1,6 @@
+### This is a React based demo for a background management system.
+![Image text](https://raw.githubusercontent.com/stanleylam19/background_management_system/main/Readme_img/Category.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
